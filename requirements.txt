@@ -1,0 +1,7 @@
+streamlit
+faster-whisper
+sentence-transformers
+imageio-ffmpeg
+numpy
+pandas
+torch
